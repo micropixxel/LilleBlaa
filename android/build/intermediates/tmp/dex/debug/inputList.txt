@@ -1,0 +1,8 @@
+C:\Users\Gamer\Desktop\LilleBlaa\android\build\intermediates\classes\debug
+C:\Users\Gamer\Desktop\LilleBlaa\android\build\intermediates\pre-dexed\debug\gdx-freetype-72d8a54ec9cf5ebf70d32943c064bd19b3204fe7.jar
+C:\Users\Gamer\Desktop\LilleBlaa\android\build\intermediates\pre-dexed\debug\tween-engine-api-f0d5a6e617718c4cd62e8ef851bd0a2b2ab312bb.jar
+C:\Users\Gamer\Desktop\LilleBlaa\android\build\intermediates\pre-dexed\debug\core-1.0-a5a579f0032dd03fb2dd5fddf86b4f87a4cdc340.jar
+C:\Users\Gamer\Desktop\LilleBlaa\android\build\intermediates\pre-dexed\debug\tween-engine-api-sources-44bc807a8a6071337d5a246ff9e041771f621511.jar
+C:\Users\Gamer\Desktop\LilleBlaa\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.4-e685c10e7e3c239f031d9b644265cce52d9e4e0b.jar
+C:\Users\Gamer\Desktop\LilleBlaa\android\build\intermediates\pre-dexed\debug\gdx-1.5.4-eb483a6aaa8de4616924350643066c73fac927ad.jar
+C:\Users\Gamer\Desktop\LilleBlaa\android\build\intermediates\pre-dexed\debug\gdx-freetype-natives-d0c36e0baa61b0df431fa757d1cec7dd6a19845c.jar
